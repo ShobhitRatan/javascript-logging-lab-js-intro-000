@@ -1,2 +1,2 @@
-console.error("Hi")
-console.log("Interesting")
+console.error("My name is Oliver Queen")
+console.log("You have failed this city")
